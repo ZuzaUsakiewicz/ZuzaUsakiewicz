@@ -1,8 +1,8 @@
 ### Hi! Welcome to my GitHub profile 👋 I'm Zuza, Front End Developer.
 
-:dizzy: ...
-
-:books: <h2>"Everything you've ever wanted is on the other side of fear"</h2> ~ George Adair
+:books: 
+>"Everything you've ever wanted is on the other side of fear"
+> ~ George Adair
 
 <h3 align="left">My skills (also currently learning):</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
