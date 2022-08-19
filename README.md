@@ -15,4 +15,5 @@
   <a href="https://styled-components.com/" target="_blank"><img src="https://avatars2.githubusercontent.com/u/20658825?s=200&v=4" alt="styled-components" width="40" height="40"/></a>
 </p>
 
-:construction: Under Construction
+
+<h3 align="left">Challenge: 100 days of code (my main goal is to finish at least 3 projects for my portfolio)</h3>
