@@ -19,5 +19,3 @@
 <h2 align="center">Currently focused on:</h2>
 <p align="center"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> </a> </p>
 <br>
-<br>
-<h3 align="left"> 🏆 Challenge: 100 days of code </h3>
