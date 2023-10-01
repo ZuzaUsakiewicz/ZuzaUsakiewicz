@@ -12,7 +12,7 @@
 <h2 align="center">Currently focused on learning:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,nextjs,supabase,materialui" />
+    <img src="https://skillicons.dev/icons?i=typescript,nextjs,astro,supabase,materialui" />
   </a>
 </p>
   <h2 align="center">Find me on:</h2>
